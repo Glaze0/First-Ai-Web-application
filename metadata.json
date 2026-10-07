@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Méridien — Europe & Southeast Asia Travel Concierge",
+  "description": "15-year veteran travel concierge platform for booking transparent flights, vetted hotels, curated packages, insider restaurant reservations, and crowd-timed local adventures across Europe and Southeast Asia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
